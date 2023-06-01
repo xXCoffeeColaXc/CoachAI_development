@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable/ic_baseline_analytics_24.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable/ic_launcher_background.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable/ic_minus.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/drawable/ic_plus.xml" value="0.272" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/layout/fragment_camera.xml" value="0.35507246376811596" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/layout/fragment_gallery.xml" value="0.35507246376811596" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/layout/fragment_report.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/layout/info_bottom_sheet.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/layout/shots_item.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/menu/menu_bottom_nav.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/Andris/Desktop/Szakdoga/CoachAI_development/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
